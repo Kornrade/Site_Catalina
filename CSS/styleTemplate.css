@@ -1,0 +1,201 @@
+<style>
+
+* {
+padding: 0;
+margin: 0;
+}
+
+body {
+    background-color: #EEEEEE;;
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+table.index {
+    background-color: #FFFFFF;
+    border-collapse: collapse;
+	border: 0px solid;
+	margin-left:auto; 
+    margin-right:auto;
+	width: 1000px;
+}
+
+table.header{
+    background-color: #091C35;
+    border-collapse: collapse;
+	border: 0px solid;
+	margin-left:auto; 
+    margin-right:auto;
+	width: 1000px;
+}
+
+td.TDTitlu {
+	padding-top: 20px;
+	background-color: #FFFFFF;
+}
+
+td.TDpoza{
+	padding-left: 25px;
+	padding-top: 10px;
+	vertical-align: text-top;
+	}
+
+td.TDtext{
+    padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	vertical-align: text-top;
+	}
+	
+td.TDinfo{
+    padding-top: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+	vertical-align: text-top;
+	}
+	
+td.TDlangaPoza{
+    padding-top: 15px;
+	padding-right: 20px;
+	padding-left: 0px;
+	vertical-align: text-top;
+	}
+
+td.butoaneFooter{
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #091C35;
+	}
+
+.text{
+	font-family: "Calibri";
+	font-size: 16px;
+	text-align: justify;
+	vertical-align: text-top;
+	margin-left: 10px;
+}
+
+.text_centrat{
+	font-family: "Calibri";
+	font-size: 16px;
+	text-align: center;
+	vertical-align: text-top;
+	margin-left: 10px;
+}
+
+.textBR{
+	font-family: "Calibri";
+	font-size: 6px;
+	text-align: justify;
+	vertical-align: text-top;
+	margin-left: 10px;
+	width: 100px;
+}
+
+.textFooter{
+	font-family: "Calibri";
+	font-size: 16px;
+	text-align: center;
+	color: #FFFFFF;
+
+}
+
+.titlu{
+	font-family: "Calibri";
+	font-size: 16px;
+	text-align: left;
+	vertical-align: text-top;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.titluPagina{
+	font-family: "Calibri";
+	font-size: 20px;
+	text-align: center;
+	vertical-align: text-top;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+img.imgBorder {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+	vertical-align: text-top;
+}
+	
+.textButonFooter{
+	font-family: "Calibri";
+	color: white;
+	font-size: 16px;
+	text-align: center;
+	vertical-align: text-top;
+}
+	
+.button_header {
+    background-color: #091C35; 
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 1px;
+    cursor: pointer;
+	font-family: "Calibri";
+    border-top: 2px solid #0D284C;
+	float: left;
+	width: 200px;
+	}
+	
+.button_header:focus {outline:0;}
+	
+.button_header:hover {
+    border-top: 2px solid #fffebd;
+}
+
+
+a.butonFooter {
+    display: inline-block;
+    border: 2px solid #0D284C;
+    border-radius: 4px;
+    padding: 1px;
+	margin: 5px 5px;
+}
+
+a.butonFooter:hover {
+	border: 2px solid #fffebd;
+	margin: 5px 5px;
+}
+
+img.icon:hover {
+    box-shadow: 0 0 2px 1px rgba(155, 0, 0, 0.9);
+}
+
+a:link {
+     color: #00087b;
+	 text-decoration: none;
+	 font-weight: normal;
+}
+
+a:visited {
+     color: #00087b;
+	 text-decoration: none;
+	 font-weight: normal;
+}
+
+a:hover, a:active {
+     color: #FF0000;
+	 text-decoration: none;
+	 font-weight: normal;
+}
+
+
+</style>
